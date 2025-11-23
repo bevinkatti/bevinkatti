@@ -1,6 +1,6 @@
 Heyy, I'm Abhishek!
 
-<h3 align="left">AI/ML and Cybersecurity enthusiast developing practical, hands-on projects and continuously improving core engineering skills</h3>
+<h3 align="left">AI/ML and Cybersecurity enthusiast developing hands-on experience and continuously improving core engineering skills</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
