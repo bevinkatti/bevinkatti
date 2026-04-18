@@ -1,11 +1,11 @@
 <h1 align="center">Heyy, I'm Abhishek 👋</h1>
 
-<h3 align="center">
-AI/ML Undergraduate • Building hands-on projects • Continuously sharpening core skills
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&speed=10&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Undergraduate;Building;Learning" />
+</p>
 
 <p align="center">
-Passionate about Machine Learning, Deep Learning, Computer Vision, LLMs, and scalable AI systems.
+Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, and scalable AI systems.
 </p>
 
 ---
@@ -18,24 +18,20 @@ Passionate about Machine Learning, Deep Learning, Computer Vision, LLMs, and sca
 </a>
 </p>
 
+![snake gif](https://github.com/bevinkatti/bevinkatti/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 <h3 align="center">⚒️ Languages & Tools</h3>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,docker,git,linux,firebase&theme=dark" />
-</p>
+</p>  
+
 ---
 
 <h3 align="center">🚀 Current Focus</h3>
 
 <p align="center">
-Building AI products • Learning LLMs & RAG • Sharpening DSA • Backend Development
+Building AI products • LLMs & RAG • Agentic AI
 </p>
 
----
-
-<h3 align="center">📈 Goal</h3>
-
-<p align="center">
-Become a high-impact AI Engineer building practical systems that solve real problems.
-</p>
