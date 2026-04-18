@@ -18,8 +18,6 @@ Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, an
 </a>
 </p>
 
-![snake gif](https://github.com/bevinkatti/bevinkatti/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 <h3 align="center">⚒️ Languages & Tools</h3>
@@ -29,9 +27,13 @@ Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, an
 
 ---
 
+![snake gif](https://github.com/bevinkatti/bevinkatti/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <h3 align="center">🚀 Current Focus</h3>
 
 <p align="center">
-Building AI products • LLMs & RAG • Agentic AI
+NLP • LLMs • RAG • Agentic AI
 </p>
 
