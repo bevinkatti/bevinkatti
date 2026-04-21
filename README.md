@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, I'm Abhishek 👋</h1>
+<h1 align="center">Heyy👋</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&speed=10&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Undergraduate;Building;Learning" />
