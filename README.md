@@ -10,11 +10,9 @@ Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, an
 
 ---  
 <div align="center">
-<p><b>AI/ML Engineer · GenAI Developer · Open Source Contributor</b></p>
+<p><b>AI/ML Engineer · GenAI · Open Source Contributor</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bevinkatti--portfolio.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bevinkatti-portfolio.vercel.app)
-
-[![GitHub](https://img.shields.io/badge/GitHub-bevinkatti-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bevinkatti)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Bevinkatti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bevinkatti)
 <h3 align="center">🌐 Connect with Me</h3>
