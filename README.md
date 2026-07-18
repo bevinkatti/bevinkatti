@@ -8,7 +8,8 @@
 Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, and scalable AI systems.
 </p>
 
----
+---  
+<div align="center">
 <p><b>AI/ML Engineer · GenAI Developer · Open Source Contributor</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bevinkatti--portfolio.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bevinkatti-portfolio.vercel.app)
@@ -17,7 +18,7 @@ Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, an
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek_Bevinkatti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-bevinkatti)
 <h3 align="center">🌐 Connect with Me</h3>
-
+</div>
 <p align="center">
 <a href="https://linkedin.com/in/abhishekbevinkatti" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45"/>
