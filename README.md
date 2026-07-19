@@ -12,7 +12,7 @@ Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, an
 <div align="center">
 <p><b>AI/ML Engineer · GenAI · Open Source Contributor</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Potfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bevinkatti-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://bevinkatti-portfolio.vercel.app)  
 
 <h3 align="center">🌐 Connect</h3>
 </div>
