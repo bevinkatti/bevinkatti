@@ -5,16 +5,16 @@
 </p>
 
 <p align="center">
-Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, and scalable AI systems.
+Machine Learning • Deep Learning • RAG • Computer Vision • LLMs • NLP • Agentic AI • scalable systems
 </p>
 
 ---  
 <div align="center">
-<p><b>AI/ML Engineer · GenAI · Open Source Contributor</b></p>
+<p><b>AI/ML · SWE · GenAI · Open Source Contributor</b></p>
 
 [![Portfolio](https://img.shields.io/badge/-Website-374151?style=for-the-badge&logo=vercel&logoColor=white)](https://bevinkatti-portfolio.vercel.app)  
 
-<h3 align="center">🌐 Connect</h3>
+<h3 align="center">🌐Connect</h3>
 </div>
 <p align="center">
 <a href="https://linkedin.com/in/abhishekbevinkatti" target="_blank">
@@ -33,11 +33,4 @@ Passionate about Machine Learning, Deep Learning, RAG, Computer Vision, LLMs, an
 
 ![snake gif](https://github.com/bevinkatti/bevinkatti/blob/output/github-contribution-grid-snake.svg)
 
----
-
-<h3 align="center">🚀 Current Focus</h3>
-
-<p align="center">
-NLP • LLMs • RAG • Agentic AI
-</p>
 
