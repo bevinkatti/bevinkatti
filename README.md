@@ -29,8 +29,12 @@ Machine Learning • Deep Learning • RAG • Computer Vision • LLMs • NLP 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,docker,git,linux,firebase&theme=dark" />
 </p>  
 
----
+---  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bevinkatti&theme=github_dark" />
+</p>  
 
+---
 ![snake gif](https://github.com/bevinkatti/bevinkatti/blob/output/github-contribution-grid-snake.svg)
 
 
