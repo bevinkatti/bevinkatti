@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Machine Learning • Deep Learning • RAG • Computer Vision • LLMs • NLP • Agentic AI • scalable systems
+RAG  • LLMs • NLP • Backend • Agentic AI • scalable systems
 </p>
 
 ---  
