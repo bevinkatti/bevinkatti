@@ -10,7 +10,7 @@ RAG  • LLMs • NLP • Backend • Agentic AI • scalable systems
 
 ---  
 <div align="center">
-<p><b>AI/ML · SWE  · Open Source Contributor</b></p>
+<p><b>AI/ML · SWE  · Open Source </b></p>
 
 [![Portfolio](https://img.shields.io/badge/-Website-374151?style=for-the-badge&logo=vercel&logoColor=white)](https://bevinkatti-portfolio.vercel.app)  
 
