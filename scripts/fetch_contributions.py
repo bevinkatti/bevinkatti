@@ -81,13 +81,17 @@ def fetch():
     busiest = max(days, key=lambda d: d["count"], default=None)
 
     streak = 0
-    for day in reversed(days):
-        if day["count"] > 0:
-            streak += 1
-        else:
-            break
-
-    monthly = {}
+    index = len(days) - 1
+    
+    # If today has no contributions, start checking from yesterday.
+    if index >= 0 and days[index]["count"] == 0:
+        index -= 1
+    
+    while index >= 0 and days[index]["count"] > 0:
+        streak += 1
+        index -= 1
+    
+        monthly = {}
 
     for day in days:
         month = day["date"][:7]
