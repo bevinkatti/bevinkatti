@@ -198,7 +198,7 @@ def repository_cards():
 
     for index, repo in enumerate(repositories):
         body = (
-            f'<a href="{escape(repo["url"], {"\"": "&quot;"})}">'
+            f'<a href="{escape(repo["url"])}">'
             + text(32, 65, repo["name"], 24, BLUE, "700")
             + text(32, 110, repo["description"], 15, WHITE)
             + text(32, 155, repo["tech"], 13, MUTED)
