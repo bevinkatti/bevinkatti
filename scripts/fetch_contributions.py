@@ -14,9 +14,9 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "data" / "contributions.json"
 
 QUERY = """
-query($login: String!) {
+query($login: String!, $from: DateTime!, $to: DateTime!) {
   user(login: $login) {
-    contributionsCollection {
+    contributionsCollection(from: $from, to: $to) {
       contributionCalendar {
         totalContributions
         weeks {
@@ -31,7 +31,6 @@ query($login: String!) {
 }
 """
 
-
 def fetch():
     if not TOKEN:
         raise RuntimeError("GITHUB_TOKEN is missing")
@@ -41,7 +40,11 @@ def fetch():
 
     payload = {
         "query": QUERY,
-        "variables": {"login": USERNAME}
+        "variables": {
+            "login": USERNAME,
+            "from": f"{start.isoformat()}T00:00:00Z",
+            "to": f"{today.isoformat()}T23:59:59Z"
+        }
     }
 
     request = urllib.request.Request(
