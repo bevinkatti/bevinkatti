@@ -74,7 +74,7 @@ I'm a Computer Science (AI & ML) undergraduate interested in building reliable s
 
 
 
-### GitHub activity
+
 
 <h3 align="center">📊 GitHub Activity</h3>
 
