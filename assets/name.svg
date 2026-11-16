@@ -1,0 +1,23 @@
+<svg width="600" height="130" viewBox="0 0 600 130"
+     xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="130" fill="none"/>
+
+  <text x="300" y="55"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="32"
+        font-weight="800"
+        fill="#FFFFFF">
+    ABHISHEK
+  </text>
+
+  <text x="300" y="100"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="30"
+        font-weight="600"
+        letter-spacing="5"
+        fill="#8B949E">
+    BEVINKATTI.
+  </text>
+</svg>
