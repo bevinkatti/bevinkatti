@@ -1,8 +1,7 @@
 
-<h1 align="center">
-  <span>ABHISHEK</span><br/>
-  <span style="color:#8B949E;">BEVINKATTI.</span>
-</h1>
+<p align="center">
+  <img src="assets/name.svg" width="600" alt="Abhishek Bevinkatti"/>
+</p>
 
 <p align="center">
   <sub>SOFTWARE · AI · OPEN SOURCE</sub>
