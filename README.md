@@ -75,12 +75,15 @@ I'm a Computer Science (AI & ML) undergraduate interested in building reliable s
 
 
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h3 align="center">📊 GitHub Activity</h3> 
+
+[![bevinkatti's GitHub stats](https://gitshine.com/card/bevinkatti?theme=night)](https://gitshine.com/stats/bevinkatti)
+
+[![bevinkatti's GitHub badges](https://gitshine.com/badges/bevinkatti)](https://gitshine.com/stats/bevinkatti#badges)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bevinkatti&theme=github_dark" width="100%" alt="GitHub profile contribution summary" />
 </p>
-
 
 
 ---
